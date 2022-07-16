@@ -7,3 +7,6 @@
 > Another code change!
 
 > Added to master again. 
+
+
+> Made changes for git pull demo. 
